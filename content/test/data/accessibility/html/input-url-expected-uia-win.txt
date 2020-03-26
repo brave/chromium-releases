@@ -1,0 +1,3 @@
+document LocalizedControlType='document'
+++group LocalizedControlType='group' IsControlElement=false
+++++textbox LocalizedControlType='url' Value.Value='example.com'

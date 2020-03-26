@@ -1,0 +1,5 @@
+document
+++img Name='Pipe'
+++group IsControlElement=false
+++++description Name='The pipe'
+++++description Name=' clicked by SomeOne.'
