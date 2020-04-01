@@ -1,0 +1,5 @@
+document
+++group IsControlElement=false
+++++document Name='pipe'
+++++++link Name='pipe1'
+++++++description Name='pipe2'

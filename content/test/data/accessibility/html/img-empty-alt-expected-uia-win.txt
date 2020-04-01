@@ -1,0 +1,5 @@
+document
+++group IsControlElement=false
+++++img IsControlElement=false
+++++img
+++++img Name='full'

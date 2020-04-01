@@ -1,0 +1,3 @@
+document
+++group IsControlElement=false
+++++button Name='Click me!'

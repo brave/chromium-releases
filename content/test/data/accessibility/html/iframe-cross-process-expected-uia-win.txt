@@ -1,0 +1,10 @@
+document
+++group IsControlElement=false
+++++description Name='Before frame'
+++group IsControlElement=false
+++++document Name='Cross-process iframe'
+++++++document
+++++++++group IsControlElement=false
+++++++++++description Name='Text in iframe'
+++group IsControlElement=false
+++++description Name='After frame'

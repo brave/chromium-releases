@@ -1,0 +1,9 @@
+document
+++region IsControlElement=false
+++++description Name='This test is to check   pre<newline>formatting.'
+++group IsControlElement=false
+++++description Name='This test is to check   pre<newline>formatting'
+++group IsControlElement=false
+++++description Name='This test is to check   pre<newline>formatting.'
+++group IsControlElement=false
+++++description Name='This test is to check pre formatting.'

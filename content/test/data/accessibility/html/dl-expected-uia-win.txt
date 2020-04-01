@@ -1,0 +1,8 @@
+document
+++list
+++++listitem IsControlElement=false
+++++++description Name='Term'
+++++description IsControlElement=false
+++++++description Name='Description'
+++definition
+++++description Name='Definition'
